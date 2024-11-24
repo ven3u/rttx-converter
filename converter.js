@@ -1,10 +1,4 @@
-/**
- * Web RTTEX to PNG Converter
- * (c) 2017 - 2023 cernodile.com
- * Special thanks to healLV teaching me about hex operations
- * Usage of this script outside cernodile.com and it's subdomains is strictly prohibited unless otherwise told.
- * Contributions are welcome
- */
+
 var filename;
 var c;
 var ctx;
